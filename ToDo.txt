@@ -4,3 +4,4 @@ Conversion functions needed:
 - Hours to minutes 
 - Feet to inches
 - Degrees to radians 
+- Celsius to farenheit
